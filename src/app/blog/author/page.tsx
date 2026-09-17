@@ -7,7 +7,7 @@ export const metadata: Metadata = {
 const page = () => {
   return (
     <div>
-      <h1>blog</h1>
+      <h1 className=' bg-blue-600'>blog</h1>
     </div>
   );
 };
