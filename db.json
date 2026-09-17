@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "description": "High-quality wireless headphones with clear sound, deep bass, and long battery life.",
+      "price": 2500,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "description": "A modern smartwatch with fitness tracking, heart rate monitoring, and notification support.",
+      "price": 3500,
+      "category": "Wearable"
+    },
+    {
+      "id": 3,
+      "title": "Gaming Keyboard",
+      "description": "Mechanical gaming keyboard with RGB lighting and comfortable keys for long gaming sessions.",
+      "price": 2200,
+      "category": "Gaming"
+    },
+    {
+      "id": 4,
+      "title": "Laptop Backpack",
+      "description": "Durable and water-resistant backpack with separate compartments for laptops and accessories.",
+      "price": 1800,
+      "category": "Accessories"
+    },
+    {
+      "id": 5,
+      "title": "USB-C Charger",
+      "description": "Fast USB-C charger suitable for smartphones, tablets, and other compatible devices.",
+      "price": 1200,
+      "category": "Electronics"
+    }
+  ]
+}
